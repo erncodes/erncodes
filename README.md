@@ -22,7 +22,7 @@ I am a fullstack developer, tech fanatic with a background in sales.
     <br/>
     <img src="https://skillicons.dev/icons?i=cs,js" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,angularvisualstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
 
