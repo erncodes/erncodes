@@ -8,7 +8,7 @@
   </div>
   <hr/>
 <h4 align="center"> 
-An aspiring fullstack developer, tech fanatic with a background in sales.<br/> I wrote my first "Hello World" code just about over a year ago. At the begining, it was just an experimental rush or i could say it was another attempt to explore the world around me a bit more. Exciting moment it was! i just had to relive that moment. As my intrigue grew, i realized that there was a part of me that felt heard or for lack of a better word 'useful' when writing code, my artistic self.<br/> Seeing the wonderful impact of computer logic around the world, everything began to make sense.<br/> Developing apps made sense, and it was then i decided that this is the way i want to contribute to this world. So i started my journey with learning the following technologies and i have managed to build some apps with their aid.
+I am a fullstack developer, tech fanatic with a background in sales.
 </h4>
 <hr/>
 <h4 align="center">My Full Stack Expertise Made Up Of:</h4>
@@ -20,9 +20,9 @@ An aspiring fullstack developer, tech fanatic with a background in sales.<br/> I
     <br/>
     <img src="https://skillicons.dev/icons?i=jquery,css,html" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=py,cs,js,java" />
+    <img src="https://skillicons.dev/icons?i=cs,js" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,express,angular,nodejs,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode,angularvisualstudio" />
   </a>
 </p>
 
