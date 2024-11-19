@@ -25,8 +25,7 @@ I am a fullstack developer, tech fanatic with a background in sales.
     <br/>
     <img src="https://skillicons.dev/icons?i=angular,dotnet" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=html
-      " />
+    <img src="https://skillicons.dev/icons?i=html" />
   </a>
 </p>
 
