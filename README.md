@@ -17,11 +17,11 @@ I am a fullstack developer, tech fanatic with a background in sales.
   <br/>
    <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,mysql,githhub" />
+    <img src="https://skillicons.dev/icons?i=azure,mysql,github" />
     <br/>
     <img src="https://skillicons.dev/icons?i=gulp,css,sass,bootstrap" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=cs,js.typescript" />
+    <img src="https://skillicons.dev/icons?i=cs,js,typescript" />
     <br/>
     <img src="https://skillicons.dev/icons?i=angular,dotnet" />
   </a>
