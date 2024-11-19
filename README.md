@@ -19,7 +19,7 @@ I am a fullstack developer, tech fanatic with a background in sales.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,mysql" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=c#,css,html" />
+    <img src="https://skillicons.dev/icons?i=gulp,css,sass" />
     <br/>
     <img src="https://skillicons.dev/icons?i=cs,js" />
     <br/>
