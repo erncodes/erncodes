@@ -1,7 +1,8 @@
   <div class="container" align="center" width="40%">
-        <h3>Hello! I am a Full Stack Developer with a passion for building dynamic and responsive web applications. With expertise in both front-end and back-end technologies, I thrive on turning complex problems into elegant solutions. I am proficient in C#,JavaScript, HTML, CSS, and have experience with frameworks like Angular 16+ and .Net Core. My strong understanding of RESTful APIs, database management, and cloud services enables me to create seamless user experiences while optimizing performance and scalability.
+        <h3>Hello! There</h3>
+    <h4>I am a Full Stack Developer with a passion for building dynamic and responsive web applications. With expertise in both front-end and back-end                       technologies, I thrive on turning complex problems into elegant solutions. I am proficient in C#,JavaScript, HTML, CSS, and have experience with frameworks like Angular 16+ and .Net Core. My strong understanding of RESTful APIs, database management, and cloud services enables me to create seamless user experiences while optimizing performance and scalability.
 
-I believe in writing clean, maintainable code and continuously explore new technologies to sharpen my skills and enhance my projects. On my GitHub, you will find projects showcasing my commitment to quality development and my enthusiasm for collaborative coding. Feel free to explore my repositories, and let’s connect to discuss potential collaborations or innovative ideas!</h3>
+I believe in writing clean, maintainable code and continuously explore new technologies to sharpen my skills and enhance my projects. On my GitHub, you will find projects showcasing my commitment to quality development and my enthusiasm for collaborative coding. Feel free to explore my repositories, and let’s connect to discuss potential collaborations or innovative ideas!</h4>
       </div>
 <br/>
 <div class="container" align="center" style="box-shadow:25px black;">
